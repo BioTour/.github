@@ -11,8 +11,9 @@ Vegetable Oil Powered Bus - Solar Electricity
 <a href="https://BioTour.github.io" target="_blank"><img alt="Photo by Jenny Sherman" src="https://github.com/BioTour/.github/blob/0bbab9d3a386cb3d314856fd91048418440048b6/profile/images/biotour.jpg"></a><br>
 Photo by [Jenny Sherman](https://www.jennysherman.com/)
 
-### Old Websites
+### Our Archived Websites
 
-[The BioTour Vagabond Journal (Pre-2008)](https://web.archive.org/web/20080209120703/http://www.biotour.org/wordpress)
+<a href="https://web.archive.org/web/20071016203155/http://biotour.org/wordpress" target="_blank"><img alt="The BioTour Vagabond Journal" src="https://github.com/BioTour/.github/blob/0fa96901b49236dfe42e8b33e7c9d35ad9a58f37/profile/images/Vagabond_Journal.png"></a><br>
+[The BioTour Vagabond Journal (Pre-2008)](https://web.archive.org/web/20071016203155/http://biotour.org/wordpress/)
 
 [BioTour on the 2008 Campaign Trail](https://web.archive.org/web/20190722092941/http://biotour.org/Fall08/)
