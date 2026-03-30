@@ -8,7 +8,11 @@ Vegetable Oil Powered Bus - Solar Electricity
 
 #### BioTour advocates sustainability as an essential goal of society and active democracy as a means to achieve it. 
 
-[on the 2008 Campaign Trail](https://web.archive.org/web/20190722092941/http://biotour.org/Fall08/)
-
 <a href="https://BioTour.github.io" target="_blank"><img alt="Photo by Jenny Sherman" src="https://github.com/BioTour/.github/blob/0bbab9d3a386cb3d314856fd91048418440048b6/profile/images/biotour.jpg"></a><br>
 Photo by [Jenny Sherman](https://www.jennysherman.com/)
+
+### Old Websites
+
+[The BioTour Vagabond Journal (Pre-2008)](https://web.archive.org/web/20080209120703/http://www.biotour.org/wordpress)
+
+[BioTour on the 2008 Campaign Trail](https://web.archive.org/web/20190722092941/http://biotour.org/Fall08/)
